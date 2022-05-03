@@ -1,4 +1,4 @@
-# React-WebRTC-Firebase-App 
+# Video-Conference-App-with-ReactJS
 Google Meet Clone with React, WebRTC, and Firebase.
 
 ## How To Run 
