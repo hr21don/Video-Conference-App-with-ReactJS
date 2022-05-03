@@ -17,6 +17,7 @@ Google Meet Clone with React, WebRTC, and Firebase.
 The app will open with a prompt for the user to enter their name as follows... 
 
 In the use case, user One enters their name into the name field below.
+
 <img width="334" alt="name" src="https://user-images.githubusercontent.com/91548582/166145996-6d10a2fb-8fca-4273-994c-d8da7bf9b9d1.PNG">
 
 Room created with Audio: Video, Screen Share and end call functionality.
