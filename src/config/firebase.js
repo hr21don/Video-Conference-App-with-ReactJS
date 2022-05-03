@@ -1,8 +1,8 @@
 import firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: , // Add API Key
-  databaseURL: // Add databaseURL
+  apiKey: "", // Add API Key
+  databaseURL: "" // Add databaseURL
 };
 
 firebase.initializeApp(firebaseConfig);
