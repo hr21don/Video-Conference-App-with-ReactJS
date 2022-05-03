@@ -11,6 +11,7 @@
     "@testing-library/user-event": "^12.8.3",
     "firebase": "^8.7.0",
     "react": "^17.0.2",
+    "react-chat-window": "^1.2.1",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.4",
     "react-scripts": "4.0.3",

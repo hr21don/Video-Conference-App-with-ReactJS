@@ -10,6 +10,7 @@ import {
   updateParticipant,
 } from "./store/actioncreator";
 import { connect } from "react-redux";
+import Demo from "./components/MessageRoom/Demo";
 
 function App(props) {
   const getUserStream = async () => {
@@ -80,6 +81,7 @@ function App(props) {
   return (
     <div className="App">
       <MainScreen />
+      <Demo />
     </div>
   );
 }
